@@ -1,2 +1,3 @@
 this is a text file.
 I add new file
+This is the Bug fix file.
